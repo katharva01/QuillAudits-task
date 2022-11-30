@@ -1,0 +1,331 @@
+.Jost-Regular-60px {
+    font-family: "Jost";
+    /* font-weight: "Regular"; */
+    font-size: 2.8rem;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 3.5rem;
+}
+
+.Jost-Regular-32px {
+    font-family: "Jost";
+    font-weight: Regular;
+    font-size: 1.4rem;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 1.8rem;
+}
+
+.Jost-Regular-20px {
+    font-family: "Jost";
+    font-weight: Regular;
+    font-size: 0.9rem;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 1.2rem;
+}
+
+.Jost-Medium-22px-blu {
+    font-family: "Jost";
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #0E63BD;
+    letter-spacing: 0;
+    line-height: 1.1rem;
+}
+
+.Jost-Medium-22px-white {
+    font-family: "Jost";
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 1.6rem;
+}
+
+.Jost-SemiBold-50px {
+    font-family: "Jost";
+    font-weight: "bold";
+    font-size: 2.4rem;
+    color: #2D83EE;
+    letter-spacing: 0;
+    line-height: 2.8rem;
+    Transform: Titlecase;
+}
+
+
+.Jost-Medium-16px-blu {
+
+    font-family: "Jost";
+    font-weight: bold;
+    font-size: 1rem;
+    color: #2D83EE;
+    letter-spacing: .2rem;
+    Transform: Uppercase;
+    line-height: 2rem;
+}
+
+.Jost-Medium-40px-black {
+
+    font-family: "Jost";
+    font-weight: bold;
+    font-size: 2.2rem;
+    color: #391400;
+    letter-spacing: 0;
+    line-height: 3.5rem;
+}
+
+
+
+.Jost-Regular-18px-black {
+    font-family: "Jost";
+    font-weight: Regular;
+    font-size: 1.1rem;
+    color: #391400;
+    letter-spacing: 0;
+    line-height: 1.3rem;
+}
+
+.Jost-Regular-16px-white {
+    font-family: "Jost";
+    font-weight: Regular;
+    font-size: 1rem;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 1.3rem;
+}
+
+.Jost-Medium-40px-white{
+    font-family: "Jost";
+    font-weight: bold;
+    font-size: 40px;
+    color: #FFFFFF;
+    letter-spacing: -17.85714340209961;
+    line-height: 0.64;
+}
+
+.Jost-Medium-22px-black {
+    font-family: "Jost";
+    font-weight: bold;
+    font-size: 1.3rem;
+    color: #391400;
+    letter-spacing: 0;
+    line-height: 1.5rem;
+    Transform: Titlecase;
+}
+
+.Jost-Regular-16px-black {
+    font-family: "Jost";
+    font-weight: Regular;
+    font-size: 1rem;
+    color: #391400;
+    letter-spacing: 0;
+    line-height: 0.32;
+}
+
+.Jost-Medium-14px {
+
+    font-family: "Jost";
+    font-weight: bold;
+    font-size: 14px;
+    color: #2D83EE;
+    letter-spacing: 0;
+    line-height: 0.20;
+}
+
+.Jost-Medium-22px-lblu {
+
+    font-family: "Jost";
+    font-weight: bold;
+    font-size: 1.3rem;
+    color: #2D83EE;
+    letter-spacing: 0;
+    line-height: 1.5rem;
+}
+
+
+
+.Jost-Medium-45px-white {
+
+    font-family: "Jost";
+    font-weight: bold;
+    font-size: 2.4rem;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 3.6rem;
+}
+
+.Jost-Regular-16px-wheat {
+
+    font-family: "Jost";
+    font-weight: Regular;
+    font-size: 1rem;
+    color: #DFDFDF;
+    letter-spacing: 0;
+    line-height: 1.3rem;
+}
+
+
+.Visby-CF-Bold-31px {
+
+    font-family: "Visby CF";
+    font-weight: Bold;
+    font-size: 31px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 0.37;
+}
+
+.Roboto-Regular-17px {
+
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 17px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 0.20;
+}
+
+.Roboto-Regular-19px {
+
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 19px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 1.3rem;
+}
+
+.Jost-Regular-18px-white {
+
+    font-family: "Jost";
+    font-weight: Regular;
+    font-size: 1.1rem;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 1.3rem;
+}
+
+.Jost-Italic-18px {
+
+    font-family: "Jost";
+    font-weight: Italic;
+    font-size: 18px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 1.3rem;
+    text-decoration: Underline;
+}
+
+.Poppins-SemiBold-14px {
+
+    font-family: Poppins;
+    font-weight: "bold";
+    font-size: 14px;
+    color: #555555;
+    letter-spacing: 0;
+    line-height: 0.21;
+    Transform: Titlecase;
+}
+
+.Jost-Regular-15px {
+
+    font-family: "Jost";
+    font-weight: Regular;
+    font-size: 15px;
+    color: #5044FF;
+    letter-spacing: 75;
+    line-height: 0.18;
+}
+
+.Jost-Regular-15px {
+
+    font-family: "Jost";
+    font-weight: Regular;
+    font-size: 15px;
+    color: #FF44A0;
+    letter-spacing: 75;
+    line-height: 0.18;
+}
+
+.Jost-Regular-15px {
+
+    font-family: "Jost";
+    font-weight: Regular;
+    font-size: 15px;
+    color: #852DEE;
+    letter-spacing: 75;
+    line-height: 0.18;
+}
+
+.Jost-Regular-15px {
+
+    font-family: "Jost";
+    font-weight: Regular;
+    font-size: 15px;
+    color: #FF445B;
+    letter-spacing: 75;
+    line-height: 0.18;
+}
+
+.Jost-Regular-15px {
+
+    font-family: "Jost";
+    font-weight: Regular;
+    font-size: 15px;
+    color: #44C4FF;
+    letter-spacing: 75;
+    line-height: 0.18;
+}
+
+.Jost-SemiBold-22px-blue {
+
+    font-family: "Jost";
+    font-weight: "bold";
+    font-size: 1.2rem;
+    color: #2D83EE;
+    letter-spacing: 0;
+    line-height: 1.4rem;
+}
+
+
+.Visby-CF-Demi-Bold-70px{
+
+     font-family: "Visby CF";
+    font-weight: Demi Bold;
+    font-size: 70px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 0.84;
+}
+
+
+.Visby-CF-Demi-Bold-27px{
+
+     font-family: "Visby CF";
+    font-weight: Demi Bold;
+    font-size: 27px;
+    color: #FFFFFF;
+    letter-spacing: 25;
+    line-height: 0.32;
+}
+
+.Epilogue-Black-14px-white{
+    font-family: Epilogue;
+    /* font-weight: ; */
+    font-size: 0.9rem;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 1.1rem;
+    Transform: Uppercase;
+}
+
+.Epilogue-Black-14px-black {
+    font-family: Epilogue;
+    /* font-weight: ; */
+    font-size: 0.9rem;
+    color: #391400;
+    letter-spacing: 0;
+    line-height: 1.1rem;
+    Transform: Uppercase;
+}

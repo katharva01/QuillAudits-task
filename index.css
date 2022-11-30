@@ -1,0 +1,25 @@
+
+
+.flex-gap-40 {
+    gap: 2rem;
+}
+.flex-gap-20 {
+    gap: 1rem;
+}
+.flex-gap-10 {
+    gap: 0.5rem;
+}
+
+.bg-gred-dark {
+    mix-blend-mode: multiply;
+    background: 
+    linear-gradient(
+        #15306F 0% 0%, #0c1e48 0% 60% 
+      );
+}
+
+.btn-bg-gene{
+    background: linear-gradient(254deg,#7184FD,#3F7AF0,#4F37EE);
+    border-radius: 10px;
+    box-shadow: #00000029 5px 8px 10px;
+}
